@@ -1,0 +1,20 @@
+#heading{
+  color:#41B653; 
+  font-size: 20px;
+}
+
+#button{
+    background-color: #41B653; 
+    color:white; 
+    float:right;
+    border-radius: 25px;
+  }
+  
+#card {
+    background-color: #41B653;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    height: 120px;
+    width: auto;
+  }
